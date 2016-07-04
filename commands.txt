@@ -1,3 +1,13 @@
 Git Learning
 
 This file is used to learn Git commands
+
+Git Commands:
+
+* Basic Git Work Flow
+- git init
+- git status
+- git add 
+- git diff
+- git commit -m ""
+- git log
