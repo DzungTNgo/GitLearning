@@ -11,3 +11,10 @@ Git Commands:
 - git diff
 - git commit -m ""
 - git log
+
+* Backtrack
+- git show HEAD
+- git checkout HEAD filename
+- git reset HEAD filename
+- git reset HEAD filename
+- git reset SHA
